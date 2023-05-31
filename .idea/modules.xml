@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IotWebsite/IotWebsite.iml" filepath="$PROJECT_DIR$/IotWebsite/IotWebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IotWebsiteAuthorizatioServer.iml" filepath="$PROJECT_DIR$/.idea/IotWebsiteAuthorizatioServer.iml" />
+    </modules>
+  </component>
+</project>
